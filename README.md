@@ -33,9 +33,10 @@ Actualmente estoy armando **sistemas reales** para gestión y administración, u
 
 ## 📊 Estadísticas de GitHub
 
-![Elio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elio1204&show_icons=true&theme=tokyonight)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Elio1204&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elio1204&layout=compact&theme=tokyonight)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Elio1204&layout=compact&theme=tokyonight&hide_border=true)
+
 
 ---
 
