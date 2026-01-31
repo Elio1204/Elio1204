@@ -21,7 +21,7 @@ Actualmente estoy armando **sistemas reales** para gestión y administración, u
 ![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Frontend (básico / con Blade)
+### Frontend
 ![Blade](https://img.shields.io/badge/Blade-Laravel-red?style=for-the-badge)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -31,12 +31,15 @@ Actualmente estoy armando **sistemas reales** para gestión y administración, u
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📌 En qué estoy trabajando
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Elio1204&show_icons=true&theme=tokyonight&hide_border=true)
+- Desarrollo de sistemas con **Scriptcase**
+- Uso de **Blade** para vistas y estructura frontend
+- Lógica backend con **PHP**
+- Modelado de datos con **MySQL**
+- Buenas prácticas y mejora continua del código
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Elio1204&layout=compact&theme=tokyonight&hide_border=true)
-
+> Me enfoco en aprender haciendo, construyendo proyectos reales y mejorándolos con el tiempo.
 
 ---
 
