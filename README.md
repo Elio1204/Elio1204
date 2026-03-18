@@ -1,4 +1,4 @@
-# 👋 Hola, soy Elio  Maldonado
+#  Hola, soy Elio  Maldonado
 
 - Desarrollador Backend (PHP / Laravel / MySQL)  
 - Argentina  
