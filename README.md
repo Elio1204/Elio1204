@@ -72,4 +72,4 @@ Actualmente estoy armando **sistemas reales** para gestión y administración, u
 
 ---
 
-⭐ Siempre abierto a aprender y mejorar
+Siempre abierto a aprender y mejorar
