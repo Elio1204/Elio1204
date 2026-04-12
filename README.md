@@ -68,7 +68,6 @@ Actualmente estoy armando **sistemas reales** para gestión y administración, u
 
 - GitHub   : https://github.com/Elio1204
 - Mal      : eliojulianmal@gmail.com
-- Linkedin : https://www.linkedin.com/in/eliojulianmaldonado/
 
 ---
 
